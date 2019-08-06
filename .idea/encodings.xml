@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/main/java/amazon/browsers/StartBrowserTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/amazon/browsers/StartChrome.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/amazon/four/locator/Data.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/amazon/four/locator/Loctors.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/amazon/four/page/NewChoosePage.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/amazon/four/page/NewHomePage.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/amazon/four/page/NewLoginPage.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/amazon/four/page/NewSelectPage.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/amazon/four/testcases/TestFlow.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/amazon/four/testcases/TestLogin.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/amazon/one/Execute.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/amazon/three/SelectPage.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/amazon/three/SettlePage.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/amazon/three/TestPage.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/amazon/two/Execute01.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/amazon/two/Loctors.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/test/java/testcases/TestFlow.java" charset="GBK" />
+  </component>
+</project>

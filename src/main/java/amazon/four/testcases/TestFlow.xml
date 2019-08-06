@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="亚马逊购物流程测试">
+    <!--verbose="2" 标识的就是记录的日志级别，共有0-10的级别，其中0表示无，10表示最详细-->
+    <!--<test name="登录" verbose="2">-->
+    <test name="test" preserve-order="true">
+        <classes>
+            <class name="testcases.TestFlow">
+                <methods>
+                    <include name="testForFlow"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <!--切记listeners所在的位置，是在suite内-->
+    <listeners>
+        <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+        <listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>
+    </listeners>
+</suite>
